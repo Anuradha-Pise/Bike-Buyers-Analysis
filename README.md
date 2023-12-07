@@ -25,3 +25,11 @@ Commute Distance
 Region
 Age
 Purchased Bike
+
+# Link:
+
+https://docs.google.com/spreadsheets/d/1vCKuxnl1W2OnBGhLtT5wHieLvxEgT9GlZyMLZ5rEzdQ/edit?usp=sharing
+
+# Output:
+
+![image](https://github.com/Anuradha-Pise/Bike-Buyers-Analysis/assets/70841033/ff67584f-aca5-4f5b-944a-cb5ef04208b2)
