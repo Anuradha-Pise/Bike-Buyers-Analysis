@@ -13,18 +13,31 @@ This dataset consists of various features related to the factors that influence 
 # These features include the following:
 
 ID
+
 Marital Status
+
 Gender
+
 Income
+
 Children
+
 Education
+
 Occupation
+
 Home Owner
+
 Cars
+
 Commute Distance
+
 Region
+
 Age
+
 Purchased Bike
+
 
 # Link:
 
